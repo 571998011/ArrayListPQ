@@ -1,4 +1,4 @@
-public interface priorityqueue{
+public interface PriorityQueue{
 	public void enQueue(Object e);
 	public Object deQueue();
 }
